@@ -1,0 +1,8 @@
+Django>=4.2
+numpy
+opencv-python
+Pillow
+tensorflow
+keras
+gunicorn
+django-widget-tweaks

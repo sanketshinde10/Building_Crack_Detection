@@ -1,4 +1,4 @@
-tensorflow_env/
+venv/
 models/
 crack_detection/models/
 media/
